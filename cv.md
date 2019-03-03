@@ -11,15 +11,19 @@ My main goal is to become a front-end developer, so I hope Rolling Scopes will g
 - HTML, CSS, Javascript  
 ### Tools:  
 - Visual Studio Code, Git  
+
 ## 5. Code examples
-[GitHub] (https://github.com/pryvvid) 
-[Plunker] (https://plnkr.co/users/pekabro) 
+[GitHub](https://github.com/pryvvid) 
+[Plunker](https://plnkr.co/users/pekabro)  
+
 ## 6. Experience 
-[Codecademy] (https://www.codecademy.com/pekabro)  
-[Plunker] (https://plnkr.co/users/pekabro)  
+[Codecademy](https://www.codecademy.com/pekabro)  
+[Plunker](https://plnkr.co/users/pekabro)  
+
 ## 7. Education  
 - Institute of contemporary knowledge (2008-2013) - Translator (English, Italian)  
-- School of Business of BSU (2014-2016) - Mathematician-programmer 
+- School of Business of BSU (2014-2016) - Mathematician-programmer  
+
 ## 8. English level  
-According to EPAM English test my english level is B1
+According to EPAM English test my english level is B1  
 Also I have a degree of English Translator
