@@ -1,0 +1,142 @@
+@font-face {
+    font-family: Lato; 
+    src: url(../fonts/Lato-Regular.ttf);
+   }
+
+body {
+    max-width: 1024px;
+    min-width: 600px;
+    margin: 0 auto;
+    background-color: #F0F0F0;
+}
+
+h1, h2, h3, p, li, a, table {
+    font-family: Lato, Arial, Helvetica, sans-serif
+}
+
+h1, h2, h3, p {
+    color: #2c3838;
+}
+
+h2 {
+    margin-top: 10px;
+}
+
+h3 {
+    font-weight: normal;
+}
+
+a {
+    color: #4A76A8;
+    margin-bottom: 5px;
+}
+
+li {
+  margin-bottom: 5px;
+}
+
+.menu {
+  top: -20px;
+  height: 70px;
+  background-color: #2c3838;
+  
+  
+}
+
+.menu-list {
+  width: 740px;
+  padding-left: 0;
+  margin: 0 auto;
+  list-style: none;
+  display: grid;
+  grid-template: 70px / 100px 100px 70px 150px 100px 100px 100px;
+  justify-items: center;
+  align-items: center;
+}
+
+.menu-list a {
+  color: #FFFFFF;
+  text-decoration: none;
+}
+
+.menu-list a:hover {
+  color: #4A76A8;
+}
+
+.profile {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+.photo {
+	width: 300px;
+	height: 300px;
+	-moz-border-radius: 50px;
+	-webkit-border-radius: 50px;
+  border-radius: 150px;
+  background-image: url(../images/photo.jpg);
+  background-size: 100%;
+  background-position: 80%;
+}
+
+.contacts {
+    background-color: #FFFFFF;
+    padding: 10px 20px;
+}
+
+.summary {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+.skills {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+.code-examples {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+.code-examples ul {
+  list-style: none;
+}
+
+.code-examples a {
+  display: block;
+  margin-left: -15px;
+}
+
+.experience {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+.experience ul {
+  list-style: none;
+}
+
+.experience a {
+    display: block;
+    margin-left: -15px;
+}
+
+.education {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
+
+.education-table td {
+  padding-right: 20px;
+  padding-bottom: 5px; 
+}
+
+.qualification {
+  font-style: oblique;
+}
+
+.english-level {
+  background-color: #FFFFFF;
+  padding: 10px 20px;
+}
